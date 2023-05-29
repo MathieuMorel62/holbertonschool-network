@@ -63,7 +63,7 @@ It is organized from the lowest level to the highest level:
   
 Keep in mind that the OSI model is a concept, it’s not even tangible. The OSI model doesn’t perform any functions in the networking process. It is a conceptual framework so we can better understand complex interactions that are happening. Most of the functionality in the OSI model exists in all communications systems.
 
-<img src="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2018/6/4e6a0ad87a65d7054248.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230529%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230529T151148Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4c9575695842553cc480479c68251eec9417747b32b60b4896cbc59aca02f417">
+<img src="https://github.com/MathieuMorel62/holbertonschool-network/assets/113856302/60d9c710-91c2-4999-b1a2-88a1d4c9d977">
 
 In this project we will mainly focus on:
   
@@ -72,7 +72,7 @@ In this project we will mainly focus on:
   
 The image bellow describes more concretely how you can relate to every level.
 
-<img src="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/9/0fc96bd99faa7941b18bcae4c5f90c6acd11791d.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230529%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230529T151148Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=076a0b4511a1580b49c74f542da7ade7a4ec35138610f0202368e95078f263fd">
+<img src="https://github.com/MathieuMorel62/holbertonschool-network/assets/113856302/f9d835e1-9aa1-42bc-b88d-f5d10d521466">
 
 **Questions:**
 
@@ -100,7 +100,7 @@ The image bellow describes more concretely how you can relate to every level.
 
 ### [1. Types Of Network](https://github.com/MathieuMorel62/holbertonschool-network/blob/main/basics_0/1-types_of_network)
 
-<img src="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/9/4b995d4f8078b44afa968d68a98035d2bd7e8fac.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230529%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230529T151148Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=7c8f3ac21bb727e5b420e1f94f85b68c0ed5f08ae8e97f8543ddbae5483f2729">
+<img src="https://github.com/MathieuMorel62/holbertonschool-network/assets/113856302/62d4d427-6755-4230-9dfd-0ec3fbbe4c29">
 
 LAN connect local devices together, WAN connects LANs together, and WANs are operating over the Internet.
 
@@ -140,7 +140,7 @@ LAN connect local devices together, WAN connects LANs together, and WANs are ope
 
 ### [2. MAC And IP Address](https://github.com/MathieuMorel62/holbertonschool-network/blob/main/basics_0/2-MAC_and_IP_address)
 
-<img src="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/9/1e348ba3bcbb094b02922f821ffeb3d8c5438b7b.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230529%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230529T151148Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=92ab67ce33ce3dcff4fe95e9e5154f14c0d30235d423defacd822f6f4248751f">
+<img src="https://github.com/MathieuMorel62/holbertonschool-network/assets/113856302/d2efd03e-963c-4e16-bb81-e6a8edfa5488">
 
 **Questions:**
 
@@ -168,7 +168,7 @@ LAN connect local devices together, WAN connects LANs together, and WANs are ope
 
 ### [3. UDP And TCP](https://github.com/MathieuMorel62/holbertonschool-network/blob/main/basics_0/3-UDP_and_TCP)
 
-<img src="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/9/3d92e3c4a470f8ecf4c73db511fcbbadaa002e1c.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230529%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230529T151148Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=1d86d8a93d28cca7326607060bd70ab9f6ca447a0102807ff082e08318d029fb">
+<img src="https://github.com/MathieuMorel62/holbertonschool-network/assets/113856302/2e9c2417-a488-40ef-bcd3-08a025f270fd">
 
 Let’s fill the empty parts in the drawing above.
   
@@ -258,8 +258,6 @@ unix  2      [ ACC ]     SEQPACKET  LISTENING     7156     378/systemd-udevd   /
 ------------------
 
 ### [5. Is The Host On The Network](https://github.com/MathieuMorel62/holbertonschool-network/blob/main/basics_0/5-is_the_host_on_the_network)
-
-<img src="https://media.giphy.com/media/uDxkJAVSU7GY8/giphy.gif">
 
 The Internet Control Message Protocol (ICMP) is a protocol in the Internet protocol suite. It is used by network devices, to check if other network devices are available on the network. The command ping uses ICMP to make sure that a network device remains online or to troubleshoot issues on the network.
   
