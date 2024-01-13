@@ -8,7 +8,7 @@
 - [Different Types Of Network](https://www.lifewire.com/lans-wans-and-other-area-networks-817376)
 - [LAN Network](https://en.wikipedia.org/wiki/Local_area_network)
 - [WAN Network](https://en.wikipedia.org/wiki/Wide_area_network)
-- [Internet]https://en.wikipedia.org/wiki/Internet)
+- [Internet](https://en.wikipedia.org/wiki/Internet)
 - [MAC Address](https://whatismyipaddress.com/mac-address)
 - [What Is An IP Address](https://www.bleepingcomputer.com/tutorials/ip-addresses-explained/)
 - [Private And Public Address](https://www.iplocation.net/public-vs-private-ip-address)
